@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Chemistry,National Autonomus University of Mexico, 2017
+* M.S. in Chemistry, University of Groningen, 2019
+* Ph.D in Chemistry, University of Basel, 2023 (expected)
 
 Work experience
 ======
