@@ -1,11 +1,11 @@
 ---
-title: "Paper Title Number 1"
+title: "MARTINI Coarse Grained models of imidazolium-based ionic liquids: from nanostructural organization to liquid-liquid extractions"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: 'Ionic liquids (ILs) are remarkable green solvents, which find applications in many areas of nano- and biotechnology including extraction and purification of value-added compounds or fine chemicals. These liquid salts possess versatile solvation properties that can be tuned by modifications in the cation or anion structure. So far, in contrast to the great success of theoretical and computational methodologies applied to other fields, only a few IL models have been able to bring insights towards the rational design of such solvents. In this work, we develop coarse-grained (CG) models for imidazolium-based ILs using a new version of the Martini force field. The model is able to reproduce the main structural properties of pure ILs, including spatial heterogeneity and global densities over a wide range of temperatures. More importantly, given the high intermolecular compatibility of the Martini force field, this new IL CG model opens the possibility of large-scale simulations of liquid–liquid extraction experiments. As examples, we show two applications, namely the extraction of aromatic molecules from a petroleum oil model and the extraction of omega-3 polyunsaturated fatty acids from a fish oil model. In semi-quantitative agreement with the experiments, we show how the extraction capacity and selectivity of the IL could be affected by the cation chain length or addition of co-solvents.'
 date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
+venue: 'Green Chemistry'
+paperurl: 'https://doi.org/10.1039/D0GC01823F'
 citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
 This paper is about the number 1. The number 2 is left for future work.
