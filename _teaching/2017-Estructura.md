@@ -1,9 +1,8 @@
-
 ---
 title: "Estructura de la Materia"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/Estructura
+permalink: /teaching/2017-Estructura
 venue: "Facultad de Quimica, UNAM"
 date: 2017
 location: "Mexico City, Mexico"
