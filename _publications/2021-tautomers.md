@@ -7,9 +7,10 @@ date: 2015-10-01
 venue: 'Journal of Chemical Theory and Computation'
 paperurl: 'https://pubs.acs.org/doi/10.1021/acs.jctc.1c00363'
 citation:  Vazquez-Salazar, L. I., Boittier, E., Unke, O. T., & Meuwly, M. (2021). &quot;Impact of the characteristics of quantum chemical databases 
-on machine learning predictions of tautomerization energies.&quot;  <i>Journal of Chemical Theory and Computation</i> 17 (8), 4769-4785
-
+            on machine learning predictions of tautomerization energies.&quot;  <i>Journal of Chemical Theory and Computation</i> 17 (8), 4769-4785
 ---
+
+
 An essential aspect for adequate predictions of chemical properties by machine learning models is the database used for training them. 
 However, studies that analyze how the content and structure of the databases used for training impact the prediction quality are scarce. 
 In this work, we analyze and quantify the relationships learned by a machine learning model (Neural Network) trained on five different reference 

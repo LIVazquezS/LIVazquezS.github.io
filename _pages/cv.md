@@ -17,7 +17,7 @@ Education
 
 Work experience
 ======
-  * Lecturer(2017)
+* Lecturer(2017)
   * [Facultad de Quimica, UNAM](https://quimica.unam.mx/): 
   * Two lectures: Fundamentos de espectroscopia (3rd Semester BSc.Chemistry)
     and estructura de la materia (2nd Semester BSc. Chemistry)
