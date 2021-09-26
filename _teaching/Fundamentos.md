@@ -1,3 +1,4 @@
+
 ---
 title: "Fundamentos de Espectroscopia"
 collection: teaching
