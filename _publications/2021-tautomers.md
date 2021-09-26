@@ -3,7 +3,7 @@ title: "https://pubs.acs.org/doi/10.1021/acs.jctc.1c00363
 collection: publications
 permalink: /publication/2021-tautomers
 excerpt: 'Tautomers and Machine Learning'
-date: 2015-10-01
+date: 2021-07-21
 venue: 'Journal of Chemical Theory and Computation'
 paperurl: 'https://pubs.acs.org/doi/10.1021/acs.jctc.1c00363'
 citation:  Vazquez-Salazar, L. I., Boittier, E., Unke, O. T., & Meuwly, M. (2021). &quot;Impact of the characteristics of quantum chemical databases 
