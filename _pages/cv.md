@@ -17,24 +17,20 @@ Education
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+  * Lecturer(2017)
+  * [Facultad de Quimica, UNAM](https://quimica.unam.mx/): 
+  * Two lectures: Fundamentos de espectroscopia (3rd Semester BSc.Chemistry)
+    and estructura de la materia (2nd Semester BSc. Chemistry)
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Research Assistant (2015-2016)
+  * [Instituto de Geofisica, UNAM](https://www.geofisica.unam.mx/)
+  * Mathematical and computational modelling of multiscale phenomena applied to fluid dynamics.
+  * Supervisor: Professor Emeritus Ismael Herrera
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Coding: Python, Bash, Mathematica, LaTex
+* Molecular Modelling Software: Gromacs, Gaussian, CHARMM, ORCA
 
 Publications
 ======

@@ -1,15 +1,12 @@
 ---
-title: "Paper Title Number 2"
+title: "Tunnelling of heavy atoms in double well potentials using analytical model"
 collection: publications
 permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
+excerpt: 'Double well potentials'
 date: 2010-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+venue: 'To be Submitted'
+paperurl: ''
+citation: 'Vazquez-Salazar, L.I. (2010). &quot;Tunnelling of heavy atoms in double well potentials using analytical mode.&quot; <i>Journal 1</i>. 1(2).'
 ---
-This paper is about the number 2. The number 3 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper2.pdf)
-
-Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
+This is a paper about my BSc. Thesis. To be finished...
