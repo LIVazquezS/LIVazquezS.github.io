@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/Fundamentos
 venue: "Facultad de Quimica, UNAM"
-date: 2017
+date: 01-08-2017
 location: "Mexico City, Mexico"
 ---
 
