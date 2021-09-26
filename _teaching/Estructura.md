@@ -14,9 +14,9 @@ The course is an introduction to quantum mechanics in chemistry for undergraduat
 Topics revisted
 ======
 
-* Fundamentals of Quantum Mechanics
-* Atomic structure
-* Molecular structure
-* Bond models
-* Intermolecular forces
+ * Fundamentals of Quantum Mechanics
+ * Atomic structure
+ * Molecular structure
+ * Bond models
+ * Intermolecular forces
 
