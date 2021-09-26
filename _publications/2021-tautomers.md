@@ -1,7 +1,7 @@
 ---
 title: "https://pubs.acs.org/doi/10.1021/acs.jctc.1c00363
 collection: publications
-permalink: /publication/tautomers
+permalink: /publication/2021-tautomers
 excerpt: 'Tautomers and Machine Learning'
 date: 2015-10-01
 venue: 'Journal of Chemical Theory and Computation'
