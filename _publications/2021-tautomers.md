@@ -1,13 +1,13 @@
 ---
-title:'Impact of the Characteristics of Quantum Chemical Databases on Machine Learning Prediction of Tautomerization Energies'
+title: 'Impact of the Characteristics of Quantum Chemical Databases on Machine Learning Prediction of Tautomerization Energies'
 collection: publications
 permalink: /publication/2021-tautomers
 excerpt: 'Tautomers and Machine Learning'
 date: 2021-07-21
 venue: 'Journal of Chemical Theory and Computation'
 paperurl: 'https://pubs.acs.org/doi/10.1021/acs.jctc.1c00363'
-citation: 'Vazquez-Salazar, L. I., Boittier, E., Unke, O. T., and Meuwly, M. (2021). &quot;Impact of the characteristics of quantum chemical databases 
-            on machine learning predictions of tautomerization energies.&quot;  <i>Journal of Chemical Theory and Computation</i> 17 (8), 4769-4785'
+citation: 'Vazquez-Salazar, L. I., Boittier, E., Unke, O. T., and Meuwly, M.(2021).&quot; Impact of the characteristics of quantum chemical databases on  
+           machine learning predictions of tautomerization energies.&quot; <i>Journal of Chemical Theory and Computation</i>.,17 (8), 4769-4785'
 ---
 
 _Abstract_
