@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in Chemistry,National Autonomus University of Mexico, 2017
-* M.S. in Chemistry, University of Groningen, 2019
-* Ph.D in Chemistry, University of Basel, 2023 (expected)
+* B.Sc. in Chemistry,National Autonomus University of Mexico, 2017
+* M.Sc. in Chemistry, University of Groningen, 2019
+* Ph.D in Chemistry, University of Basel, 2024 (expected)
 
 Work experience
 ======
@@ -29,8 +29,8 @@ Work experience
   
 Skills
 ======
-* Coding: Python, Bash, Mathematica, LaTex
-* Molecular Modelling Software: Gromacs, Gaussian, CHARMM, ORCA
+* Coding: Python, Fortran, Bash, Mathematica, LaTex
+* Molecular Modelling Software: Gromacs, Gaussian, CHARMM, ORCA, MOLPRO
 
 Publications
 ======
