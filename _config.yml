@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "L.I.Vazquez-Salazar / My personal site"
 title_separator          : "-"
 name                     : &name "Luis Itza Vazquez-Salazar"
-description              : &description "PhD Student"
+description              : &description "SNSF Postdoctoral Fellow"
 url                      : https://LIVazquezS.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "LIVazquezS/LIVazquezS.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Luis Itza Vazquez-Salazar"
   avatar           : "yo1.jpeg"
-  bio              : "Mexican PhD Student in Chemistry interested in computational chemistry and machine learning"
-  location         : "Basel, Switzerland"
+  bio              : "Mexican Postdoctoral Fellow interested in computational chemistry and machine learning"
+  location         : "Heidelberg, Germany" #"Basel, Switzerland"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            : "luisitza.vazquezsalazar@unibas.ch"
+  email            : "vazquez@thphys.uni-heidelberg.de" #"luisitza.vazquezsalazar@unibas.ch"
   researchgate     : "https://www.researchgate.net/profile/Luis-Vazquez-Salazar-2"
   uri              :
   bitbucket        :
