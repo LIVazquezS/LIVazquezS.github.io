@@ -11,12 +11,16 @@ redirect_from:
 
 Education
 ======
-* B.Sc. in Chemistry,National Autonomus University of Mexico, 2017
+* B.Sc. in Chemistry, National Autonomous University of Mexico, 2017
 * M.Sc. in Chemistry, University of Groningen, 2019
-* Ph.D in Chemistry, University of Basel, 2024 (expected)
+* Ph.D. in Chemistry, University of Basel, 2024
 
 Work experience
 ======
+* SNSF Postdoctoral Fellow (2024)
+  * [Institute for Theoretical Physics, Heidelberg University](https://www.thphys.uni-heidelberg.de/index.php?lang=e)
+  * Application of machine learning generative models for backmapping structures from Coarse-Graining to All-Atom resolution.
+  * Supervisor: [Prof. Dr. Tristan Bereau](https://tristanbereau.com/)
 * Lecturer (2017)
   * [Facultad de Quimica, UNAM](https://quimica.unam.mx/): 
   * Two lectures: Fundamentos de espectroscopia (3rd Semester BSc.Chemistry)
